@@ -55,8 +55,8 @@
 
 ### Optional tasks
 
-- [ ] Do more tasks on exercism
-- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [X] Do more tasks on exercism
+- [X] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
 - [ ] Finish [Time Complexity chapter](https://www.interviewbit.com/courses/programming/topics/time-complexity) in Level 1 of Interviewbit
 - [ ] Finish [Arrays chapter]((https://www.interviewbit.com/courses/programming/topics/arrays/)) in Level 2 of Interviewbit
 - [ ] Finish [Math chapter](https://www.interviewbit.com/courses/programming/topics/math/) in Level 2 of Interviewbit.
