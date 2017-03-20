@@ -14,12 +14,12 @@
     + Reversing a given String
     + Substitution/Replacing specific letters
     + String Compression
-  - And StringBuffer is the most important thing to use when working with String
+  - StringBuffer is almost most important thing to use when working with String
   
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
-  - Using a few sentences, describe what you've learned.
+  - At first, we will count the number of times each character appeared. Each time we see a particular character, we will increment the counter at that position. After all, if the two lists of counters are identical, the strings must be anagrams
 
 **Arrays**
 
