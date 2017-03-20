@@ -19,15 +19,33 @@
 - [X] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Memoization is a technique ensures that a function doesn't run for the same inputs more than once by keeping a record of the results for given inputs. The idea is very simple: record the answers to subproblems in a table. Each time an answer to a subproblem is needed, consult the table.  If no answer exists in the table, perform the computation and save the answer in the table. Future occurrences of the subproblem can be "solved" by just loading the answer from the table.
   - A related technique, called dynamic programming, is to start with the smallest subproblem, and then to iteratively work up towards larger problems, until the overall problem is solved. This kind of solution can be written using a loop of the general form. This technique can called going bottom-up, it is usually cleaner and more efficient. 
+  
 - [X] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - At first, we will count the number of times each character appeared. Each time we see a particular character, we will increment the counter at that position. After all, if the two lists of counters are identical, the strings must be anagrams
 
 **Arrays**
 
-- [ ] Read Sorting Algorithms
-  - Can you memorize one algorithm? What is it?
-- [ ] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
-  - Using a few sentences, describe what you've learned.
+- [X] Read Sorting Algorithms
+  - Insertion sort - a simple sorting algorithm that works as same as we sort playing cards in our hands
+  
+- [X] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
+  - There are 8 sorting algorithms:
+    + Bubble sort
+    + Selection sort
+    + Insertion sort
+    + Merge sort
+    + Quick sort
+    + Heap sort
+    + Counting sort
+    + Radix sort
+
+  - We classify sorting algorithms based on:
+	  + Time complexity
+	  + Space complexity or Memory usage
+	  + Stability
+	  + Internal sort or external sort
+	  + Recursive (such as Quick sort, merge sort) or non-recursive (such as insertion sort, selection sort)
+    
 - [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
   - Using a few sentences, describe what you've learned
 
