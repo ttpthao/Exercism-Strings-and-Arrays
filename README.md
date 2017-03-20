@@ -7,8 +7,15 @@
 
 **Strings**
 
-- [ ] Read String Questions in Interviews.
-  - Using a few sentences, describe what you've learned.
+- [X] Read String Questions in Interviews.
+  - There are many types of String questions. However, there are 5 types of String questions is extremely popular:
+    + Generate all permutations of a given String
+    + Substrings of a given String
+    + Reversing a given String
+    + Substitution/Replacing specific letters
+    + String Compression
+  - And StringBuffer is the most important thing to use when working with String
+  
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
