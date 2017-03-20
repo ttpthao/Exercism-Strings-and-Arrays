@@ -16,9 +16,10 @@
     + String Compression
   - StringBuffer is almost most important thing to use when working with String
   
-- [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
-  - Using a few sentences, describe what you've learned.
-- [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
+- [X] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
+  - Memoization is a technique ensures that a function doesn't run for the same inputs more than once by keeping a record of the results for given inputs. The idea is very simple: record the answers to subproblems in a table. Each time an answer to a subproblem is needed, consult the table.  If no answer exists in the table, perform the computation and save the answer in the table. Future occurrences of the subproblem can be "solved" by just loading the answer from the table.
+  - A related technique, called dynamic programming, is to start with the smallest subproblem, and then to iteratively work up towards larger problems, until the overall problem is solved. This kind of solution can be written using a loop of the general form. This technique can called going bottom-up, it is usually cleaner and more efficient. 
+- [X] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - At first, we will count the number of times each character appeared. Each time we see a particular character, we will increment the counter at that position. After all, if the two lists of counters are identical, the strings must be anagrams
 
 **Arrays**
