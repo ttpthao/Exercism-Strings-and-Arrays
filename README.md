@@ -46,8 +46,8 @@
 	  + Internal sort or external sort
 	  + Recursive (such as Quick sort, merge sort) or non-recursive (such as insertion sort, selection sort)
     
-- [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
-  - Using a few sentences, describe what you've learned
+- [X] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
+  - Merge sort is a recursive algorithm. It splits input array in half, calls itself for the two halves and then merges the two sorted halves
 
 **Coding**
 
